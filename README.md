@@ -27,7 +27,7 @@
 <p>
   <b>Backend　</b>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-BE7928?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"><br /><br />
@@ -50,4 +50,5 @@
  ### :muscle: Problem Solving  
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abovenormal5023">
+  <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=OpenJDK&logoColor=white">
 </p>
