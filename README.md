@@ -3,7 +3,7 @@
 
 ### :books: Education & Career
 
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
 - Inha University, Bachelor of Computer Science Engineering (2015.03 - 2022.02)
 
 
