@@ -15,7 +15,7 @@
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
 | 2022.10- 2022.11|          Web          | [긱허브(GeekHub)](https://github.com/abovenormal/GeekHub) (드라이버들의 업무 자동화 및 관리자 업무 모니터링 및 데이터 수집) |
 | 2022.08 - 2022.10 |          Web          | [알록달록(ALDL)](https://github.com/abovenormal/ALDL) (블록체인기술을 활용한 기록 공유 서비스) |
-| 2022.07 - 2021.08 |          Web          | [FITWEEN](https://github.com/abovenormal/FITWEEN) (위치,신체 정보를 이용한 의류 공유 플랫폼) |
+| 2022.07 - 2021.08 |          Web          | [피트윈(FITWEEN)](https://github.com/abovenormal/FITWEEN) (위치,신체 정보를 이용한 의류 공유 플랫폼) |
 
 
 
