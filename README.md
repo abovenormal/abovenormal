@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=David.Han%20👨‍💻&fontSize=50&fontColor=)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=David.Han%20👨‍💻&fontSize=50&fontColor=white)
 
 
 ### :books: Education & Career
