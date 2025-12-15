@@ -51,9 +51,10 @@
 
 <br />
 
- ### :muscle: Problem Solving  
+ ### :muscle: Problem Solving 
+> Related repository : [Algorithm repo](https://github.com/abovenormal/studyAlgo)
+
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=abovenormal5023"><br/>
   <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=OpenJDK&logoColor=white">
 </p>
-> Related repository : [Algorithm](https://github.com/abovenormal/studyAlgo)
